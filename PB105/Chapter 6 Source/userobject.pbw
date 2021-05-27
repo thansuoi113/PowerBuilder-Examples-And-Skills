@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "ToggleButton\\togglebutton.pbt";
+ 1 "StatusBar\\status.pbt";
+ 2 "Ftp\\ftp.pbt";
+ 3 "Datawindow\\datawindow.pbt";
+@end;
+DefaultTarget "Datawindow\\datawindow.pbt";
+DefaultRemoteTarget "Datawindow\\datawindow.pbt";

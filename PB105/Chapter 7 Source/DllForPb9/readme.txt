@@ -1,0 +1,1 @@
+The VCSource subdirectory is the DLL source code in VC

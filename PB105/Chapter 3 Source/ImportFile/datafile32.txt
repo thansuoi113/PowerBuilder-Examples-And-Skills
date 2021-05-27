@@ -1,0 +1,1454 @@
+1, Linghu Chong, Swordsman, 28
+2, Kidd, New Jersey Nets, 30
+3, Bryant, Los Angeles Lakers, 25
+4, Ro Baggio, Brescia, 36
+5, Batti, Rome, 33
+6, Duncan, Spurs, 27
+7, Linghu Chong, Swordsman, 28
+8, Kid, New Jersey Nets, 30
+9, Bryant, Los Angeles Lakers, 24
+10, Ro Baggio, Brescia, 36
+11, Batty, Rome, 33
+12, Duncan, Spurs, 27
+13, Linghu Chong, Swordsman, 28
+14, Kidd, New Jersey Nets, 30
+15, Bryant, Los Angeles Lakers, 24
+16, Luo Baggio, Brescia, 36
+17, Batty, Rome, 33
+18, Duncan, Spurs, 27
+19, Linghu Chong, Swordsman, 28
+20, Kidd, New Jersey Nets, 30
+21, Bryant, Los Angeles Lakers, 24
+22, Luo Baggio, Brescia, 36
+23, Batty, Rome, 33
+24, Duncan, Spurs, 27
+25, Linghu Chong, smiling proud of the rivers and lakes, 28
+26, Kidd, New Jersey Nets, 30
+27, Bryant, Los Angeles Lakers, 24
+28, Luo Baggio, Brescia, 36
+29, Batty, Rome, 33
+30, Duncan, Spurs, 27
+31, Linghu Chong, smiling proudly, 28
+32, Kidd, New Jersey Nets, 30
+33, Bryant, Los Angeles Lakers, 25
+34, Luo Baggio, Brescia, 36
+35, Batty, Rome, 33
+36, Duncan, Spurs, 27
+37, Linghu Chong, Swordsman, 28
+38, Kidd, New Jersey Nets, 30
+39, Bryant, Los Angeles Lakers, 24
+40, Luo Baggio, Brescia, 36
+41, Batty, Rome, 33
+42, Duncan, Spurs, 27
+43, Linghu Chong, Swordsman, 28
+44, Kidd, New Jersey Nets, 30
+45, Bryant, Los Angeles Lakers, 24
+46, Luo Baggio, Brescia, 36
+47, Batty, Rome, 33
+48, Duncan, Spurs, 27
+49, Linghu Chong, smiling proud, 28
+50, Kidd, New Jersey Nets, 30
+51, Bryant, Los Angeles Lakers, 24
+52, Luo Baggio, Brescia, 36
+53, Batty, Rome, 33
+54, Duncan, Spurs, 27
+55, Linghu Chong, smiling proud, 28
+56, Kidd, New Jersey Nets, 30
+57, Bryant, Los Angeles Lakers, 24
+58, Luo Baggio, Brescia, 36
+59, Batty, Rome, 33
+60, Duncan, Spurs, 27
+61, Linghu Chong, Swordsman, 28
+62, Kidd, New Jersey Nets, 30
+63, Bryant, Los Angeles Lakers, 25
+64, Luo Baggio, Brescia, 36
+65, Batty, Rome, 33
+66, Duncan, Spurs, 27
+67, Linghu Chong, smiling proud, 28
+68, Kidd, New Jersey Nets, 30
+69, Bryant, Los Angeles Lakers, 24
+70, Luo Baggio, Brescia, 36
+71, Batty, Rome, 33
+72, Duncan, Spurs, 27
+73, Linghu Chong, Swordsman, 28
+74, Kidd, New Jersey Nets, 30
+75, Bryant, Los Angeles Lakers, 24
+76, Luo Baggio, Brescia, 36
+77, Batty, Rome, 33
+78, Duncan, Spurs, 27
+79, Linghu Chong, Swordsman, 28
+80, Kidd, New Jersey Nets, 30
+81, Bryant, Los Angeles Lakers, 24
+82, Luo Baggio, Brescia, 36
+83, Batty, Rome, 33
+84, Duncan, Spurs, 27
+85, Linghu Chong, Swordsman, 28
+86, Kidd, New Jersey Nets, 30
+87, Bryant, Los Angeles Lakers, 24
+88, Luo Baggio, Brescia, 36
+89, Batty, Rome, 33
+90, Duncan, Spurs, 27
+91, Linghu Chong, smiling proud, 28
+92, Kidd, New Jersey Nets, 30
+93, Bryant, Los Angeles Lakers, 25
+94, Luo Baggio, Brescia, 36
+95, Batty, Rome, 33
+96, Duncan, Spurs, 27
+97, Linghu Chong, Swordsman, 28
+98, Kidd, New Jersey Nets, 30
+99, Bryant, Los Angeles Lakers, 24
+100, Ro Baggio, Brescia, 36
+101, Batty, Rome, 33
+102, Duncan, Spurs, 27
+103, Linghu Chong, Swordsman, 28
+104, Kidd, New Jersey Nets, 30
+105, Bryant, Los Angeles Lakers, 24
+106, Luo Baggio, Brescia, 36
+107, Batty, Rome, 33
+108, Duncan, Spurs, 27
+109, Linghu Chong, Swordsman, 28
+110, Kidd, New Jersey Nets, 30
+111, Bryant, Los Angeles Lakers, 24
+112, Luo Baggio, Brescia, 36
+113, Batty, Rome, 33
+114, Duncan, Spurs, 27
+115, Linghu Chong, Swordsman, 28
+116, Kidd, New Jersey Nets, 30
+117, Bryant, Los Angeles Lakers, 24
+118, Luo Baggio, Brescia, 36
+119, Batty, Rome, 33
+120, Duncan, Spurs, 27
+121, Linghu Chong, smiling proud, 28
+122, Kidd, New Jersey Nets, 30
+123, Bryant, Los Angeles Lakers, 25
+124, Luo Baggio, Brescia, 36
+125, Batty, Rome, 33
+126, Duncan, Spurs, 27
+127, Linghu Chong, Swordsman, 28
+128, Kidd, New Jersey Nets, 30
+129, Bryant, Los Angeles Lakers, 24
+130, Luo Baggio, Brescia, 36
+131, Batty, Rome, 33
+132, Duncan, Spurs, 27
+133, Linghu Chong, Smiling Proud Jianghu, 28
+134, Kidd, New Jersey Nets, 30
+135, Bryant, Los Angeles Lakers, 24
+136, Luo Baggio, Brescia, 36
+137, Batty, Rome, 33
+138, Duncan, Spurs, 27
+139, Linghu Chong, Swordsman, 28
+140, Kidd, New Jersey Nets, 30
+141, Bryant, Los Angeles Lakers, 24
+142, Luo Baggio, Brescia, 36
+143, Batty, Rome, 33
+144, Duncan, Spurs, 27
+145, Linghu Chong, Swordsman, 28
+146, Kidd, New Jersey Nets, 30
+147, Bryant, Los Angeles Lakers, 24
+148, Luo Baggio, Brescia, 36
+149, Batty, Rome, 33
+150, Duncan, Spurs, 27
+151, Linghu Chong, Swordsman, 28
+152, Kidd, New Jersey Nets, 30
+153, Bryant, Los Angeles Lakers, 25
+154, Luo Baggio, Brescia, 36
+155, Batty, Rome, 33
+156, Duncan, Spurs, 27
+157, Linghu Chong, Swordsman, 28
+158, Kidd, New Jersey Nets, 30
+159, Bryant, Los Angeles Lakers, 24
+160, Luo Baggio, Brescia, 36
+161, Batty, Rome, 33
+162, Duncan, Spurs, 27
+163, Linghu Chong, Swordsman, 28
+164, Kidd, New Jersey Nets, 30
+165, Bryant, Los Angeles Lakers, 24
+166, Luo Baggio, Brescia, 36
+167, Batty, Rome, 33
+168, Duncan, Spurs, 27
+169, Linghu Chong, Swordsman, 28
+170, Kidd, New Jersey Nets, 30
+171, Bryant, Los Angeles Lakers, 24
+172, Luo Baggio, Brescia, 36
+173, Batty, Rome, 33
+174, Duncan, Spurs, 27
+175, Linghu Chong, Swordsman, 28
+176, Kidd, New Jersey Nets, 30
+177, Bryant, Los Angeles Lakers, 24
+178, Luo Baggio, Brescia, 36
+179, Batty, Rome, 33
+180, Duncan, Spurs, 27
+181, Linghu Chong, Swordsman, 28
+182, Kidd, New Jersey Nets, 30
+183, Bryant, Los Angeles Lakers, 25
+184, Luo Baggio, Brescia, 36
+185, Batty, Rome, 33
+186, Duncan, Spurs, 27
+187, Linghu Chong, Swordsman, 28
+188, Kidd, New Jersey Nets, 30
+189, Bryant, Los Angeles Lakers, 24
+190, Luo Baggio, Brescia, 36
+191, Batty, Rome, 33
+192, Duncan, Spurs, 27
+193, Linghu Chong, Swordsman, 28
+194, Kidd, New Jersey Nets, 30
+195, Bryant, Los Angeles Lakers, 24
+196, Luo Baggio, Brescia, 36
+197, Batty, Rome, 33
+198, Duncan, Spurs, 27
+199, Linghu Chong, Swordsman, 28
+200, Kidd, New Jersey Nets, 30
+201, Bryant, Los Angeles Lakers, 24
+202, Luo Baggio, Brescia, 36
+203, Batty, Rome, 33
+204, Duncan, Spurs, 27
+205, Linghu Chong, Swordsman, 28
+206, Kidd, New Jersey Nets, 30
+207, Bryant, Los Angeles Lakers, 24
+208, Luo Baggio, Brescia, 36
+209, Batty, Rome, 33
+210, Duncan, Spurs, 27
+211, Linghu Chong, Swordsman, 28
+212, Kidd, New Jersey Nets, 30
+213, Bryant, Los Angeles Lakers, 25
+214, Luo Baggio, Brescia, 36
+215, Batty, Rome, 33
+216, Duncan, Spurs, 27
+217, Linghu Chong, Swordsman, 28
+218, Kidd, New Jersey Nets, 30
+219, Bryant, Los Angeles Lakers, 24
+220, Luo Baggio, Brescia, 36
+221, Batty, Rome, 33
+222, Duncan, Spurs, 27
+223, Linghu Chong, Swordsman, 28
+224, Kidd, New Jersey Nets, 30
+225, Bryant, Los Angeles Lakers, 24
+226, Luo Baggio, Brescia, 36
+227, Batty, Rome, 33
+228, Duncan, Spurs, 27
+229, Linghu Chong, Swordsman, 28
+230, Kidd, New Jersey Nets, 30
+231, Bryant, Los Angeles Lakers, 24
+232, Luo Baggio, Brescia, 36
+233, Batty, Rome, 33
+234, Duncan, Spurs, 27
+235, Linghu Chong, Swordsman, 28
+236, Kidd, New Jersey Nets, 30
+237, Bryant, Los Angeles Lakers, 24
+238, Luo Baggio, Brescia, 36
+239, Batty, Rome, 33
+240, Duncan, Spurs, 27
+241, Linghu Chong, Swordsman, 28
+242, Kidd, New Jersey Nets, 30
+243, Bryant, Los Angeles Lakers, 25
+244, Ro Baggio, Brescia, 36
+245, Batty, Rome, 33
+246, Duncan, Spurs, 27
+247, Linghu Chong, Swordsman, 28
+248, Kidd, New Jersey Nets, 30
+249, Bryant, Los Angeles Lakers, 24
+250, Ro Baggio, Brescia, 36
+251, Batty, Rome, 33
+252, Duncan, Spurs, 27
+253, Linghu Chong, Swordsman, 28
+254, Kidd, New Jersey Nets, 30
+255, Bryant, Los Angeles Lakers, 24
+256, Luo Baggio, Brescia, 36
+257, Batty, Rome, 33
+258, Duncan, Spurs, 27
+259, Linghu Chong, Swordsman, 28
+260, Kidd, New Jersey Nets, 30
+261, Bryant, Los Angeles Lakers, 24
+262, Luo Baggio, Brescia, 36
+263, Batty, Rome, 33
+264, Duncan, Spurs, 27
+265, Linghu Chong, Swordsman, 28
+266, Kidd, New Jersey Nets, 30
+267, Bryant, Los Angeles Lakers, 24
+268, Luo Baggio, Brescia, 36
+269, Batty, Rome, 33
+270, Duncan, Spurs, 27
+271, Linghu Chong, Swordsman, 28
+272, Kidd, New Jersey Nets, 30
+273, Bryant, Los Angeles Lakers, 25
+274, Luo Baggio, Brescia, 36
+275, Batty, Rome, 33
+276, Duncan, Spurs, 27
+277, Linghu Chong, Swordsman, 28
+278, Kidd, New Jersey Nets, 30
+279, Bryant, Los Angeles Lakers, 24
+280, Luo Baggio, Brescia, 36
+281, Batty, Rome, 33
+282, Duncan, Spurs, 27
+283, Linghu Chong, Swordsman, 28
+284, Kidd, New Jersey Nets, 30
+285, Bryant, Los Angeles Lakers, 24
+286, Luo Baggio, Brescia, 36
+287, Batty, Rome, 33
+288, Duncan, Spurs, 27
+289, Linghu Chong, Swordsman, 28
+290, Kidd, New Jersey Nets, 30
+291, Bryant, Los Angeles Lakers, 24
+292, Luo Baggio, Brescia, 36
+293, Batty, Rome, 33
+294, Duncan, Spurs, 27
+295, Linghu Chong, Swordsman, 28
+296, Kidd, New Jersey Nets, 30
+297, Bryant, Los Angeles Lakers, 24
+298, Ro Baggio, Brescia, 36
+299, Batty, Rome, 33
+300, Duncan, Spurs, 27
+301, Linghu Chong, Swordsman, 28
+302, Kidd, New Jersey Nets, 30
+303, Bryant, Los Angeles Lakers, 25
+304, Ro Baggio, Brescia, 36
+305, Batty, Rome, 33
+306, Duncan, Spurs, 27
+307, Linghu Chong, Swordsman, 28
+308, Kidd, New Jersey Nets, 30
+309, Bryant, Los Angeles Lakers, 24
+310, Luo Baggio, Brescia, 36
+311, Batty, Rome, 33
+312, Duncan, Spurs, 27
+313, Linghu Chong, Swordsman, 28
+314, Kidd, New Jersey Nets, 30
+315, Bryant, Los Angeles Lakers, 24
+316, Luo Baggio, Brescia, 36
+317, Batty, Rome, 33
+318, Duncan, Spurs, 27
+319, Linghu Chong, Swordsman, 28
+320, Kidd, New Jersey Nets, 30
+321, Bryant, Los Angeles Lakers, 24
+322, Luo Baggio, Brescia, 36
+323, Batty, Rome, 33
+324, Duncan, Spurs, 27
+325, Linghu Chong, Swordsman, 28
+326, Kidd, New Jersey Nets, 30
+327, Bryant, Los Angeles Lakers, 24
+328, Luo Baggio, Brescia, 36
+329, Batty, Rome, 33
+330, Duncan, Spurs, 27
+331, Linghu Chong, Swordsman, 28
+332, Kidd, New Jersey Nets, 30
+333, Bryant, Los Angeles Lakers, 25
+334, Luo Baggio, Brescia, 36
+335, Batty, Rome, 33
+336, Duncan, Spurs, 27
+337, Linghu Chong, Swordsman, 28
+338, Kidd, New Jersey Nets, 30
+339, Bryant, Los Angeles Lakers, 24
+340, Luo Baggio, Brescia, 36
+341, Batty, Rome, 33
+342, Duncan, Spurs, 27
+343, Linghu Chong, Swordsman, 28
+344, Kidd, New Jersey Nets, 30
+345, Bryant, Los Angeles Lakers, 24
+346, Luo Baggio, Brescia, 36
+347, Batty, Rome, 33
+348, Duncan, Spurs, 27
+349, Linghu Chong, Swordsman, 28
+350, Kidd, New Jersey Nets, 30
+351, Bryant, Los Angeles Lakers, 24
+352, Luo Baggio, Brescia, 36
+353, Batty, Rome, 33
+354, Duncan, Spurs, 27
+355, Linghu Chong, Swordsman, 28
+356, Kidd, New Jersey Nets, 30
+357, Bryant, Los Angeles Lakers, 24
+358, Luo Baggio, Brescia, 36
+359, Batty, Rome, 33
+360, Duncan, Spurs, 27
+361, Linghu Chong, Swordsman, 28
+362, Kidd, New Jersey Nets, 30
+363, Bryant, Los Angeles Lakers, 25
+364, Ro Baggio, Brescia, 36
+365, Batty, Rome, 33
+366, Duncan, Spurs, 27
+367, Linghu Chong, Swordsman, 28
+368, Kidd, New Jersey Nets, 30
+369, Bryant, Los Angeles Lakers, 24
+370, Luo Baggio, Brescia, 36
+371, Batty, Rome, 33
+372, Duncan, Spurs, 27
+373, Linghu Chong, Smiling Proud Jianghu, 28
+374, Kidd, New Jersey Nets, 30
+375, Bryant, Los Angeles Lakers, 24
+376, Luo Baggio, Brescia, 36
+377, Batty, Rome, 33
+378, Duncan, Spurs, 27
+379, Linghu Chong, Swordsman, 28
+380, Kidd, New Jersey Nets, 30
+381, Bryant, Los Angeles Lakers, 24
+382, Ro Baggio, Brescia, 36
+383, Batty, Rome, 33
+384, Duncan, Spurs, 27
+385, Linghu Chong, Swordsman, 28
+386, Kidd, New Jersey Nets, 30
+387, Bryant, Los Angeles Lakers, 24
+388, Luo Baggio, Brescia, 36
+389, Batty, Rome, 33
+390, Duncan, Spurs, 27
+391, Linghu Chong, Swordsman, 28
+392, Kidd, New Jersey Nets, 30
+393, Bryant, Los Angeles Lakers, 25
+394, Luo Baggio, Brescia, 36
+395, Batty, Rome, 33
+396, Duncan, Spurs, 27
+397, Linghu Chong, Swordsman, 28
+398, Kidd, New Jersey Nets, 30
+399, Bryant, Los Angeles Lakers, 24
+400, Luo Baggio, Brescia, 36
+401, Batty, Rome, 33
+402, Duncan, Spurs, 27
+403, Linghu Chong, Swordsman, 28
+404, Kidd, New Jersey Nets, 30
+405, Bryant, Los Angeles Lakers, 24
+406, Luo Baggio, Brescia, 36
+407, Batty, Rome, 33
+408, Duncan, Spurs, 27
+409, Linghu Chong, Swordsman, 28
+410, Kidd, New Jersey Nets, 30
+411, Bryant, Los Angeles Lakers, 24
+412, Ro Baggio, Brescia, 36
+413, Batty, Rome, 33
+414, Duncan, Spurs, 27
+415, Linghu Chong, Swordsman, 28
+416, Kidd, New Jersey Nets, 30
+417, Bryant, Los Angeles Lakers, 24
+418, Luo Baggio, Brescia, 36
+419, Batty, Rome, 33
+420, Duncan, Spurs, 27
+421, Linghu Chong, Swordsman, 28
+422, Kidd, New Jersey Nets, 30
+423, Bryant, Los Angeles Lakers, 25
+424, Luo Baggio, Brescia, 36
+425, Batty, Rome, 33
+426, Duncan, Spurs, 27
+427, Linghu Chong, Swordsman, 28
+428, Kidd, New Jersey Nets, 30
+429, Bryant, Los Angeles Lakers, 24
+430, Luo Baggio, Brescia, 36
+431, Batty, Rome, 33
+432, Duncan, Spurs, 27
+433, Linghu Chong, Swordsman, 28
+434, Kidd, New Jersey Nets, 30
+435, Bryant, Los Angeles Lakers, 24
+436, Luo Baggio, Brescia, 36
+437, Batty, Rome, 33
+438, Duncan, Spurs, 27
+439, Linghu Chong, Swordsman, 28
+440, Kidd, New Jersey Nets, 30
+441, Bryant, Los Angeles Lakers, 24
+442, Ro Baggio, Brescia, 36
+443, Batty, Rome, 33
+444, Duncan, Spurs, 27
+445, Linghu Chong, Swordsman, 28
+446, Kidd, New Jersey Nets, 30
+447, Bryant, Los Angeles Lakers, 24
+448, Luo Baggio, Brescia, 36
+449, Batty, Rome, 33
+450, Duncan, Spurs, 27
+451, Linghu Chong, Swordsman, 28
+452, Kidd, New Jersey Nets, 30
+453, Bryant, Los Angeles Lakers, 25
+454, Luo Baggio, Brescia, 36
+455, Batty, Rome, 33
+456, Duncan, Spurs, 27
+457, Linghu Chong, Swordsman, 28
+458, Kidd, New Jersey Nets, 30
+459, Bryant, Los Angeles Lakers, 24
+460, Luo Baggio, Brescia, 36
+461, Batty, Rome, 33
+462, Duncan, Spurs, 27
+463, Linghu Chong, Swordsman, 28
+464, Kidd, New Jersey Nets, 30
+465, Bryant, Los Angeles Lakers, 24
+466, Luo Baggio, Brescia, 36
+467, Batty, Rome, 33
+468, Duncan, Spurs, 27
+469, Linghu Chong, Swordsman, 28
+470, Kidd, New Jersey Nets, 30
+471, Bryant, Los Angeles Lakers, 24
+472, Luo Baggio, Brescia, 36
+473, Batty, Rome, 33
+474, Duncan, Spurs, 27
+475, Linghu Chong, Swordsman, 28
+476, Kidd, New Jersey Nets, 30
+477, Bryant, Los Angeles Lakers, 24
+478, Luo Baggio, Brescia, 36
+479, Batty, Rome, 33
+480, Duncan, Spurs, 27
+481, Linghu Chong, Swordsman, 28
+482, Kidd, New Jersey Nets, 30
+483, Bryant, Los Angeles Lakers, 25
+484, Luo Baggio, Brescia, 36
+485, Batty, Rome, 33
+486, Duncan, Spurs, 27
+487, Linghu Chong, Swordsman, 28
+488, Kidd, New Jersey Nets, 30
+489, Bryant, Los Angeles Lakers, 24
+490, Luo Baggio, Brescia, 36
+491, Batty, Rome, 33
+492, Duncan, Spurs, 27
+493, Linghu Chong, Swordsman, 28
+494, Kidd, New Jersey Nets, 30
+495, Bryant, Los Angeles Lakers, 24
+496, Luo Baggio, Brescia, 36
+497, Batty, Rome, 33
+498, Duncan, Spurs, 27
+499, Linghu Chong, Swordsman, 28
+500, Kidd, New Jersey Nets, 30
+501, Bryant, Los Angeles Lakers, 24
+502, Luo Baggio, Brescia, 36
+503, Batty, Rome, 33
+504, Duncan, Spurs, 27
+505, Linghu Chong, Swordsman, 28
+506, Kidd, New Jersey Nets, 30
+507, Bryant, Los Angeles Lakers, 24
+508, Luo Baggio, Brescia, 36
+509, Batty, Rome, 33
+510, Duncan, Spurs, 27
+511, Linghu Chong, Swordsman, 28
+512, Kidd, New Jersey Nets, 30
+513, Bryant, Los Angeles Lakers, 25
+514, Luo Baggio, Brescia, 36
+515, Batty, Rome, 33
+516, Duncan, Spurs, 27
+517, Linghu Chong, Swordsman, 28
+518, Kidd, New Jersey Nets, 30
+519, Bryant, Los Angeles Lakers, 24
+520, Luo Baggio, Brescia, 36
+521, Batty, Rome, 33
+522, Duncan, Spurs, 27
+523, Linghu Chong, Swordsman, 28
+524, Kidd, New Jersey Nets, 30
+525, Bryant, Los Angeles Lakers, 24
+526, Luo Baggio, Brescia, 36
+527, Batty, Rome, 33
+528, Duncan, Spurs, 27
+529, Linghu Chong, Swordsman, 28
+530, Kidd, New Jersey Nets, 30
+531, Bryant, Los Angeles Lakers, 24
+532, Luo Baggio, Brescia, 36
+533, Batty, Rome, 33
+534, Duncan, Spurs, 27
+535, Linghu Chong, Swordsman, 28
+536, Kidd, New Jersey Nets, 30
+537, Bryant, Los Angeles Lakers, 24
+538, Ro Baggio, Brescia, 36
+539, Batty, Rome, 33
+540, Duncan, Spurs, 27
+541, Linghu Chong, Swordsman, 28
+542, Kidd, New Jersey Nets, 30
+543, Bryant, Los Angeles Lakers, 25
+544, Luo Baggio, Brescia, 36
+545, Batty, Rome, 33
+546, Duncan, Spurs, 27
+547, Linghu Chong, Swordsman, 28
+548, Kidd, New Jersey Nets, 30
+549, Bryant, Los Angeles Lakers, 24
+550, Luo Baggio, Brescia, 36
+551, Batty, Rome, 33
+552, Duncan, Spurs, 27
+553, Linghu Chong, Swordsman, 28
+554, Kidd, New Jersey Nets, 30
+555, Bryant, Los Angeles Lakers, 24
+556, Luo Baggio, Brescia, 36
+557, Batty, Rome, 33
+558, Duncan, Spurs, 27
+559, Linghu Chong, Smiling Proud Jianghu, 28
+560, Kidd, New Jersey Nets, 30
+561, Bryant, Los Angeles Lakers, 24
+562, Luo Baggio, Brescia, 36
+563, Batty, Rome, 33
+564, Duncan, Spurs, 27
+565, Linghu Chong, Swordsman, 28
+566, Kidd, New Jersey Nets, 30
+567, Bryant, Los Angeles Lakers, 24
+568, Luo Baggio, Brescia, 36
+569, Batty, Rome, 33
+570, Duncan, Spurs, 27
+571, Linghu Chong, Swordsman, 28
+572, Kidd, New Jersey Nets, 30
+573, Bryant, Los Angeles Lakers, 25
+574, Luo Baggio, Brescia, 36
+575, Batty, Rome, 33
+576, Duncan, Spurs, 27
+577, Linghu Chong, Swordsman, 28
+578, Kidd, New Jersey Nets, 30
+579, Bryant, Los Angeles Lakers, 24
+580, Luo Baggio, Brescia, 36
+581, Batty, Rome, 33
+582, Duncan, Spurs, 27
+583, Linghu Chong, Swordsman, 28
+584, Kidd, New Jersey Nets, 30
+585, Bryant, Los Angeles Lakers, 24
+586, Luo Baggio, Brescia, 36
+587, Batty, Rome, 33
+588, Duncan, Spurs, 27
+589, Linghu Chong, Smiling Proud Jianghu, 28
+590, Kidd, New Jersey Nets, 30
+591, Bryant, Los Angeles Lakers, 24
+592, Luo Baggio, Brescia, 36
+593, Batty, Rome, 33
+594, Duncan, Spurs, 27
+595, Linghu Chong, Swordsman, 28
+596, Kidd, New Jersey Nets, 30
+597, Bryant, Los Angeles Lakers, 24
+598, Luo Baggio, Brescia, 36
+599, Batty, Rome, 33
+600, Duncan, Spurs, 27
+601, Linghu Chong, Swordsman, 28
+602, Kidd, New Jersey Nets, 30
+603, Bryant, Los Angeles Lakers, 25
+604, Luo Baggio, Brescia, 36
+605, Batty, Rome, 33
+606, Duncan, Spurs, 27
+607, Linghu Chong, Swordsman, 28
+608, Kidd, New Jersey Nets, 30
+609, Bryant, Los Angeles Lakers, 24
+610, Luo Baggio, Brescia, 36
+611, Batty, Rome, 33
+612, Duncan, Spurs, 27
+613, Linghu Chong, Swordsman, 28
+614, Kidd, New Jersey Nets, 30
+615, Bryant, Los Angeles Lakers, 24
+616, Luo Baggio, Brescia, 36
+617, Batty, Rome, 33
+618, Duncan, Spurs, 27
+619, Linghu Chong, Swordsman, 28
+620, Kidd, New Jersey Nets, 30
+621, Bryant, Los Angeles Lakers, 24
+622, Luo Baggio, Brescia, 36
+623, Batty, Rome, 33
+624, Duncan, Spurs, 27
+625, Linghu Chong, Swordsman, 28
+626, Kidd, New Jersey Nets, 30
+627, Bryant, Los Angeles Lakers, 24
+628, Luo Baggio, Brescia, 36
+629, Batty, Rome, 33
+630, Duncan, Spurs, 27
+631, Linghu Chong, Swordsman, 28
+632, Kidd, New Jersey Nets, 30
+633, Bryant, Los Angeles Lakers, 25
+634, Ro Baggio, Brescia, 36
+635, Batty, Rome, 33
+636, Duncan, Spurs, 27
+637, Linghu Chong, Swordsman, 28
+638, Kidd, New Jersey Nets, 30
+639, Bryant, Los Angeles Lakers, 24
+640, Luo Baggio, Brescia, 36
+641, Batty, Rome, 33
+642, Duncan, Spurs, 27
+643, Linghu Chong, Swordsman, 28
+644, Kidd, New Jersey Nets, 30
+645, Bryant, Los Angeles Lakers, 24
+646, Luo Baggio, Brescia, 36
+647, Batty, Rome, 33
+648, Duncan, Spurs, 27
+649, Linghu Chong, Swordsman, 28
+650, Kidd, New Jersey Nets, 30
+651, Bryant, Los Angeles Lakers, 24
+652, Luo Baggio, Brescia, 36
+653, Batty, Rome, 33
+654, Duncan, Spurs, 27
+655, Linghu Chong, Swordsman, 28
+656, Kidd, New Jersey Nets, 30
+657, Bryant, Los Angeles Lakers, 24
+658, Luo Baggio, Brescia, 36
+659, Batty, Rome, 33
+660, Duncan, Spurs, 27
+661, Linghu Chong, Swordsman, 28
+662, Kidd, New Jersey Nets, 30
+663, Bryant, Los Angeles Lakers, 25
+664, Luo Baggio, Brescia, 36
+665, Batty, Rome, 33
+666, Duncan, Spurs, 27
+667, Linghu Chong, Swordsman, 28
+668, Kidd, New Jersey Nets, 30
+669, Bryant, Los Angeles Lakers, 24
+670, Luo Baggio, Brescia, 36
+671, Batty, Rome, 33
+672, Duncan, Spurs, 27
+673, Linghu Chong, Swordsman, 28
+674, Kidd, New Jersey Nets, 30
+675, Bryant, Los Angeles Lakers, 24
+676, Ro Baggio, Brescia, 36
+677, Batty, Rome, 33
+678, Duncan, Spurs, 27
+679, Linghu Chong, Swordsman, 28
+680, Kidd, New Jersey Nets, 30
+681, Bryant, Los Angeles Lakers, 24
+682, Luo Baggio, Brescia, 36
+683, Batty, Rome, 33
+684, Duncan, Spurs, 27
+685, Linghu Chong, Swordsman, 28
+686, Kidd, New Jersey Nets, 30
+687, Bryant, Los Angeles Lakers, 24
+688, Luo Baggio, Brescia, 36
+689, Batty, Rome, 33
+690, Duncan, Spurs, 27
+691, Linghu Chong, Swordsman, 28
+692, Kidd, New Jersey Nets, 30
+693, Bryant, Los Angeles Lakers, 25
+694, Luo Baggio, Brescia, 36
+695, Batty, Rome, 33
+696, Duncan, Spurs, 27
+697, Linghu Chong, Swordsman, 28
+698, Kidd, New Jersey Nets, 30
+699, Bryant, Los Angeles Lakers, 24
+700, Luo Baggio, Brescia, 36
+701, Batty, Rome, 33
+702, Duncan, Spurs, 27
+703, Linghu Chong, Swordsman, 28
+704, Kidd, New Jersey Nets, 30
+705, Bryant, Los Angeles Lakers, 24
+706, Luo Baggio, Brescia, 36
+707, Batty, Rome, 33
+708, Duncan, Spurs, 27
+709, Linghu Chong, Swordsman, 28
+710, Kidd, New Jersey Nets, 30
+711, Bryant, Los Angeles Lakers, 24
+712, Ro Baggio, Brescia, 36
+713, Batty, Rome, 33
+714, Duncan, Spurs, 27
+715, Linghu Chong, Swordsman, 28
+716, Kidd, New Jersey Nets, 30
+717, Bryant, Los Angeles Lakers, 24
+718, Ro Baggio, Brescia, 36
+719, Batty, Rome, 33
+720, Duncan, Spurs, 27
+721, Linghu Chong, Swordsman, 28
+722, Kidd, New Jersey Nets, 30
+723, Bryant, Los Angeles Lakers, 25
+724, Luo Baggio, Brescia, 36
+725, Batty, Rome, 33
+726, Duncan, Spurs, 27
+727, Linghu Chong, Swordsman, 28
+728, Kidd, New Jersey Nets, 30
+729, Bryant, Los Angeles Lakers, 24
+730, Luo Baggio, Brescia, 36
+731, Batty, Rome, 33
+732, Duncan, Spurs, 27
+733, Linghu Chong, Swordsman, 28
+734, Kidd, New Jersey Nets, 30
+735, Bryant, Los Angeles Lakers, 24
+736, Luo Baggio, Brescia, 36
+737, Batty, Rome, 33
+738, Duncan, Spurs, 27
+739, Linghu Chong, Swordsman, 28
+740, Kidd, New Jersey Nets, 30
+741, Bryant, Los Angeles Lakers, 24
+742, Luo Baggio, Brescia, 36
+743, Batty, Rome, 33
+744, Duncan, Spurs, 27
+745, Linghu Chong, Swordsman, 28
+746, Kidd, New Jersey Nets, 30
+747, Bryant, Los Angeles Lakers, 24
+748, Luo Baggio, Brescia, 36
+749, Batty, Rome, 33
+750, Duncan, Spurs, 27
+751, Linghu Chong, Swordsman, 28
+752, Kidd, New Jersey Nets, 30
+753, Bryant, Los Angeles Lakers, 25
+754, Luo Baggio, Brescia, 36
+755, Batty, Rome, 33
+756, Duncan, Spurs, 27
+757, Linghu Chong, Swordsman, 28
+758, Kidd, New Jersey Nets, 30
+759, Bryant, Los Angeles Lakers, 24
+760, Luo Baggio, Brescia, 36
+761, Batty, Rome, 33
+762, Duncan, Spurs, 27
+763, Linghu Chong, Swordsman, 28
+764, Kidd, New Jersey Nets, 30
+765, Bryant, Los Angeles Lakers, 24
+766, Luo Baggio, Brescia, 36
+767, Batty, Rome, 33
+768, Duncan, Spurs, 27
+769, Linghu Chong, Swordsman, 28
+770, Kidd, New Jersey Nets, 30
+771, Bryant, Los Angeles Lakers, 24
+772, Luo Baggio, Brescia, 36
+773, Batty, Rome, 33
+774, Duncan, Spurs, 27
+775, Linghu Chong, Swordsman, 28
+776, Kidd, New Jersey Nets, 30
+777, Bryant, Los Angeles Lakers, 24
+778, Luo Baggio, Brescia, 36
+779, Batty, Rome, 33
+780, Duncan, Spurs, 27
+781, Linghu Chong, Swordsman, 28
+782, Kidd, New Jersey Nets, 30
+783, Bryant, Los Angeles Lakers, 25
+784, Ro Baggio, Brescia, 36
+785, Batty, Rome, 33
+786, Duncan, Spurs, 27
+787, Linghu Chong, Swordsman, 28
+788, Kidd, New Jersey Nets, 30
+789, Bryant, Los Angeles Lakers, 24
+790, Luo Baggio, Brescia, 36
+791, Batty, Rome, 33
+792, Duncan, Spurs, 27
+793, Linghu Chong, Swordsman, 28
+794, Kidd, New Jersey Nets, 30
+795, Bryant, Los Angeles Lakers, 24
+796, Luo Baggio, Brescia, 36
+797, Batty, Rome, 33
+798, Duncan, Spurs, 27
+799, Linghu Chong, Swordsman, 28
+800, Kidd, New Jersey Nets, 30
+801, Bryant, Los Angeles Lakers, 24
+802, Ro Baggio, Brescia, 36
+803, Batty, Rome, 33
+804, Duncan, Spurs, 27
+805, Linghu Chong, Swordsman, 28
+806, Kidd, New Jersey Nets, 30
+807, Bryant, Los Angeles Lakers, 24
+808, Luo Baggio, Brescia, 36
+809, Batty, Rome, 33
+810, Duncan, Spurs, 27
+811, Linghu Chong, Swordsman, 28
+812, Kidd, New Jersey Nets, 30
+813, Bryant, Los Angeles Lakers, 25
+814, Luo Baggio, Brescia, 36
+815, Batty, Rome, 33
+816, Duncan, Spurs, 27
+817, Linghu Chong, Swordsman, 28
+818, Kidd, New Jersey Nets, 30
+819, Bryant, Los Angeles Lakers, 24
+820, Luo Baggio, Brescia, 36
+821, Batty, Rome, 33
+822, Duncan, Spurs, 27
+823, Linghu Chong, Swordsman, 28
+824, Kidd, New Jersey Nets, 30
+825, Bryant, Los Angeles Lakers, 24
+826, Luo Baggio, Brescia, 36
+827, Batty, Rome, 33
+828, Duncan, Spurs, 27
+829, Linghu Chong, Swordsman, 28
+830, Kidd, New Jersey Nets, 30
+831, Bryant, Los Angeles Lakers, 24
+832, Luo Baggio, Brescia, 36
+833, Batty, Rome, 33
+834, Duncan, Spurs, 27
+835, Linghu Chong, Swordsman, 28
+836, Kidd, New Jersey Nets, 30
+837, Bryant, Los Angeles Lakers, 24
+838, Luo Baggio, Brescia, 36
+839, Batty, Rome, 33
+840, Duncan, Spurs, 27
+841, Linghu Chong, Swordsman, 28
+842, Kidd, New Jersey Nets, 30
+843, Bryant, Los Angeles Lakers, 25
+844, Ro Baggio, Brescia, 36
+845, Batty, Rome, 33
+846, Duncan, Spurs, 27
+847, Linghu Chong, Swordsman, 28
+848, Kidd, New Jersey Nets, 30
+849, Bryant, Los Angeles Lakers, 24
+850, Luo Baggio, Brescia, 36
+851, Batty, Rome, 33
+852, Duncan, Spurs, 27
+853, Linghu Chong, Swordsman, 28
+854, Kidd, New Jersey Nets, 30
+855, Bryant, Los Angeles Lakers, 24
+856, Luo Baggio, Brescia, 36
+857, Batty, Rome, 33
+858, Duncan, Spurs, 27
+859, Linghu Chong, Swordsman, 28
+860, Kidd, New Jersey Nets, 30
+861, Bryant, Los Angeles Lakers, 24
+862, Luo Baggio, Brescia, 36
+863, Batty, Rome, 33
+864, Duncan, Spurs, 27
+865, Linghu Chong, Swordsman, 28
+866, Kidd, New Jersey Nets, 30
+867, Bryant, Los Angeles Lakers, 24
+868, Luo Baggio, Brescia, 36
+869, Batty, Rome, 33
+870, Duncan, Spurs, 27
+871, Linghu Chong, Swordsman, 28
+872, Kidd, New Jersey Nets, 30
+873, Bryant, Los Angeles Lakers, 25
+874, Luo Baggio, Brescia, 36
+875, Batty, Rome, 33
+876, Duncan, Spurs, 27
+877, Linghu Chong, Swordsman, 28
+878, Kidd, New Jersey Nets, 30
+879, Bryant, Los Angeles Lakers, 24
+880, Luo Baggio, Brescia, 36
+881, Batty, Rome, 33
+882, Duncan, Spurs, 27
+883, Linghu Chong, Swordsman, 28
+884, Kidd, New Jersey Nets, 30
+885, Bryant, Los Angeles Lakers, 24
+886, Luo Baggio, Brescia, 36
+887, Batty, Rome, 33
+888, Duncan, Spurs, 27
+889, Linghu Chong, Swordsman, 28
+890, Kidd, New Jersey Nets, 30
+891, Bryant, Los Angeles Lakers, 24
+892, Luo Baggio, Brescia, 36
+893, Batty, Rome, 33
+894, Duncan, Spurs, 27
+895, Linghu Chong, Swordsman, 28
+896, Kidd, New Jersey Nets, 30
+897, Bryant, Los Angeles Lakers, 24
+898, Luo Baggio, Brescia, 36
+899, Batty, Rome, 33
+900, Duncan, Spurs, 27
+901, Linghu Chong, Swordsman, 28
+902, Kidd, New Jersey Nets, 30
+903, Bryant, Los Angeles Lakers, 25
+904, Luo Baggio, Brescia, 36
+905, Batty, Rome, 33
+906, Duncan, Spurs, 27
+907, Linghu Chong, Swordsman, 28
+908, Kidd, New Jersey Nets, 30
+909, Bryant, Los Angeles Lakers, 24
+910, Luo Baggio, Brescia, 36
+911, Batty, Rome, 33
+912, Duncan, Spurs, 27
+913, Linghu Chong, Swordsman, 28
+914, Kidd, New Jersey Nets, 30
+915, Bryant, Los Angeles Lakers, 24
+916, Luo Baggio, Brescia, 36
+917, Batty, Rome, 33
+918, Duncan, Spurs, 27
+919, Linghu Chong, Swordsman, 28
+920, Kidd, New Jersey Nets, 30
+921, Bryant, Los Angeles Lakers, 24
+922, Ro Baggio, Brescia, 36
+923, Batty, Rome, 33
+924, Duncan, Spurs, 27
+925, Linghu Chong, Swordsman, 28
+926, Kidd, New Jersey Nets, 30
+927, Bryant, Los Angeles Lakers, 24
+928, Luo Baggio, Brescia, 36
+929, Batty, Rome, 33
+930, Duncan, Spurs, 27
+931, Linghu Chong, Swordsman, 28
+932, Kidd, New Jersey Nets, 30
+933, Bryant, Los Angeles Lakers, 25
+934, Luo Baggio, Brescia, 36
+935, Batty, Rome, 33
+936, Duncan, Spurs, 27
+937, Linghu Chong, Swordsman, 28
+938, Kidd, New Jersey Nets, 30
+939, Bryant, Los Angeles Lakers, 24
+940, Ro Baggio, Brescia, 36
+941, Batty, Rome, 33
+942, Duncan, Spurs, 27
+943, Linghu Chong, Swordsman, 28
+944, Kidd, New Jersey Nets, 30
+945, Bryant, Los Angeles Lakers, 24
+946, Luo Baggio, Brescia, 36
+947, Batty, Rome, 33
+948, Duncan, Spurs, 27
+949, Linghu Chong, Swordsman, 28
+950, Kidd, New Jersey Nets, 30
+951, Bryant, Los Angeles Lakers, 24
+952, Luo Baggio, Brescia, 36
+953, Batty, Rome, 33
+954, Duncan, Spurs, 27
+955, Linghu Chong, Swordsman, 28
+956, Kidd, New Jersey Nets, 30
+957, Bryant, Los Angeles Lakers, 24
+958, Luo Baggio, Brescia, 36
+959, Batty, Rome, 33
+960, Duncan, Spurs, 27
+961, Linghu Chong, Swordsman, 28
+962, Kidd, New Jersey Nets, 30
+963, Bryant, Los Angeles Lakers, 25
+964, Luo Baggio, Brescia, 36
+965, Batty, Rome, 33
+966, Duncan, Spurs, 27
+967, Linghu Chong, Swordsman, 28
+968, Kidd, New Jersey Nets, 30
+969, Bryant, Los Angeles Lakers, 24
+970, Luo Baggio, Brescia, 36
+971, Batty, Rome, 33
+972, Duncan, Spurs, 27
+973, Linghu Chong, Swordsman, 28
+974, Kidd, New Jersey Nets, 30
+975, Bryant, Los Angeles Lakers, 24
+976, Ro Baggio, Brescia, 36
+977, Batty, Rome, 33
+978, Duncan, Spurs, 27
+979, Linghu Chong, Swordsman, 28
+980, Kidd, New Jersey Nets, 30
+981, Bryant, Los Angeles Lakers, 24
+982, Ro Baggio, Brescia, 36
+983, Batty, Rome, 33
+984, Duncan, Spurs, 27
+985, Linghu Chong, Swordsman, 28
+986, Kidd, New Jersey Nets, 30
+987, Bryant, Los Angeles Lakers, 24
+988, Luo Baggio, Brescia, 36
+989, Batty, Rome, 33
+990, Duncan, Spurs, 27
+991, Linghu Chong, Swordsman, 28
+992, Kidd, New Jersey Nets, 30
+993, Bryant, Los Angeles Lakers, 25
+994, Luo Baggio, Brescia, 36
+995, Batty, Rome, 33
+996, Duncan, Spurs, 27
+997, Linghu Chong, Swordsman, 28
+998, Kidd, New Jersey Nets, 30
+999, Bryant, Los Angeles Lakers, 24
+1000, Luo Baggio, Brescia, 36
+1001, Batty, Rome, 33
+1002, Duncan, Spurs, 27
+1003, Linghu Chong, Swordsman, 28
+1004, Kidd, New Jersey Nets, 30
+1005, Bryant, Los Angeles Lakers, 24
+1006, Luo Baggio, Brescia, 36
+1007, Batty, Rome, 33
+1008, Duncan, Spurs, 27
+1009, Linghu Chong, Swordsman, 28
+1010, Kidd, New Jersey Nets, 30
+1011, Bryant, Los Angeles Lakers, 24
+1012, Luo Baggio, Brescia, 36
+1013, Batty, Rome, 33
+1014, Duncan, Spurs, 27
+1015, Linghu Chong, Swordsman, 28
+1016, Kidd, New Jersey Nets, 30
+1017, Bryant, Los Angeles Lakers, 24
+1018, Luo Baggio, Brescia, 36
+1019, Batty, Rome, 33
+1020, Duncan, Spurs, 27
+1021, Linghu Chong, Swordsman, 28
+1022, Kidd, New Jersey Nets, 30
+1023, Bryant, Los Angeles Lakers, 25
+1024, Luo Baggio, Brescia, 36
+1025, Batty, Rome, 33
+1026, Duncan, Spurs, 27
+1027, Linghu Chong, Swordsman, 28
+1028, Kidd, New Jersey Nets, 30
+1029, Bryant, Los Angeles Lakers, 24
+1030, Luo Baggio, Brescia, 36
+1031, Batty, Rome, 33
+1032, Duncan, Spurs, 27
+1033, Linghu Chong, Swordsman, 28
+1034, Kidd, New Jersey Nets, 30
+1035, Bryant, Los Angeles Lakers, 24
+1036, Luo Baggio, Brescia, 36
+1037, Batty, Rome, 33
+1038, Duncan, Spurs, 27
+1039, Linghu Chong, Swordsman, 28
+1040, Kidd, New Jersey Nets, 30
+1041, Bryant, Los Angeles Lakers, 24
+1042, Luo Baggio, Brescia, 36
+1043, Batty, Rome, 33
+1044, Duncan, Spurs, 27
+1045, Linghu Chong, Swordsman, 28
+1046, Kidd, New Jersey Nets, 30
+1047, Bryant, Los Angeles Lakers, 24
+1048, Luo Baggio, Brescia, 36
+1049, Batty, Rome, 33
+1050, Duncan, Spurs, 27
+1051, Linghu Chong, Swordsman, 28
+1052, Kidd, New Jersey Nets, 30
+1053, Bryant, Los Angeles Lakers, 25
+1054, Luo Baggio, Brescia, 36
+1055, Batty, Rome, 33
+1056, Duncan, Spurs, 27
+1057, Linghu Chong, Swordsman, 28
+1058, Kidd, New Jersey Nets, 30
+1059, Bryant, Los Angeles Lakers, 24
+1060, Luo Baggio, Brescia, 36
+1061, Batty, Rome, 33
+1062, Duncan, Spurs, 27
+1063, Linghu Chong, Swordsman, 28
+1064, Kidd, New Jersey Nets, 30
+1065, Bryant, Los Angeles Lakers, 24
+1066, Luo Baggio, Brescia, 36
+1067, Batty, Rome, 33
+1068, Duncan, Spurs, 27
+1069, Linghu Chong, Swordsman, 28
+1070, Kidd, New Jersey Nets, 30
+1071, Bryant, Los Angeles Lakers, 24
+1072, Luo Baggio, Brescia, 36
+1073, Batty, Rome, 33
+1074, Duncan, Spurs, 27
+1075, Linghu Chong, Swordsman, 28
+1076, Kidd, New Jersey Nets, 30
+1077, Bryant, Los Angeles Lakers, 24
+1078, Luo Baggio, Brescia, 36
+1079, Batty, Rome, 33
+1080, Duncan, Spurs, 27
+1081, Linghu Chong, Swordsman, 28
+1082, Kidd, New Jersey Nets, 30
+1083, Bryant, Los Angeles Lakers, 25
+1084, Luo Baggio, Brescia, 36
+1085, Batty, Rome, 33
+1086, Duncan, Spurs, 27
+1087, Linghu Chong, Swordsman, 28
+1088, Kidd, New Jersey Nets, 30
+1089, Bryant, Los Angeles Lakers, 24
+1090, Luo Baggio, Brescia, 36
+1091, Batty, Rome, 33
+1092, Duncan, Spurs, 27
+1093, Linghu Chong, Swordsman, 28
+1094, Kidd, New Jersey Nets, 30
+1095, Bryant, Los Angeles Lakers, 24
+1096, Luo Baggio, Brescia, 36
+1097, Batty, Rome, 33
+1098, Duncan, Spurs, 27
+1099, Linghu Chong, Swordsman, 28
+1100, Kidd, New Jersey Nets, 30
+1101, Bryant, Los Angeles Lakers, 24
+1102, Ro Baggio, Brescia, 36
+1103, Batty, Rome, 33
+1104, Duncan, Spurs, 27
+1105, Linghu Chong, Swordsman, 28
+1106, Kidd, New Jersey Nets, 30
+1107, Bryant, Los Angeles Lakers, 24
+1108, Luo Baggio, Brescia, 36
+1109, Batty, Rome, 33
+1110, Duncan, Spurs, 27
+1111, Linghu Chong, Swordsman, 28
+1112, Kidd, New Jersey Nets, 30
+1113, Bryant, Los Angeles Lakers, 25
+1114, Ro Baggio, Brescia, 36
+1115, Batty, Rome, 33
+1116, Duncan, Spurs, 27
+1117, Linghu Chong, Swordsman, 28
+1118, Kidd, New Jersey Nets, 30
+1119, Bryant, Los Angeles Lakers, 24
+1120, Luo Baggio, Brescia, 36
+1121, Batty, Rome, 33
+1122, Duncan, Spurs, 27
+1123, Linghu Chong, Swordsman, 28
+1124, Kidd, New Jersey Nets, 30
+1125, Bryant, Los Angeles Lakers, 24
+1126, Luo Baggio, Brescia, 36
+1127, Batty, Rome, 33
+1128, Duncan, Spurs, 27
+1129, Linghu Chong, Swordsman, 28
+1130, Kidd, New Jersey Nets, 30
+1131, Bryant, Los Angeles Lakers, 24
+1132, Luo Baggio, Brescia, 36
+1133, Batty, Rome, 33
+1134, Duncan, Spurs, 27
+1135, Linghu Chong, Swordsman, 28
+1136, Kidd, New Jersey Nets, 30
+1137, Bryant, Los Angeles Lakers, 24
+1138, Luo Baggio, Brescia, 36
+1139, Batty, Rome, 33
+1140, Duncan, Spurs, 27
+1141, Linghu Chong, Swordsman, 28
+1142, Kidd, New Jersey Nets, 30
+1143, Bryant, Los Angeles Lakers, 25
+1144, Luo Baggio, Brescia, 36
+1145, Batty, Rome, 33
+1146, Duncan, Spurs, 27
+1147, Linghu Chong, Swordsman, 28
+1148, Kidd, New Jersey Nets, 30
+1149, Bryant, Los Angeles Lakers, 24
+1150, Ro Baggio, Brescia, 36
+1151, Batty, Rome, 33
+1152, Duncan, Spurs, 27
+1153, Linghu Chong, Swordsman, 28
+1154, Kidd, New Jersey Nets, 30
+1155, Bryant, Los Angeles Lakers, 24
+1156, Ro Baggio, Brescia, 36
+1157, Batty, Rome, 33
+1158, Duncan, Spurs, 27
+1159, Linghu Chong, Swordsman, 28
+1160, Kidd, New Jersey Nets, 30
+1161, Bryant, Los Angeles Lakers, 24
+1162, Luo Baggio, Brescia, 36
+1163, Batty, Rome, 33
+1164, Duncan, Spurs, 27
+1165, Linghu Chong, Swordsman, 28
+1166, Kidd, New Jersey Nets, 30
+1167, Bryant, Los Angeles Lakers, 24
+1168, Luo Baggio, Brescia, 36
+1169, Batty, Rome, 33
+1170, Duncan, Spurs, 27
+1171, Linghu Chong, Swordsman, 28
+1172, Kidd, New Jersey Nets, 30
+1173, Bryant, Los Angeles Lakers, 25
+1174, Luo Baggio, Brescia, 36
+1175, Batty, Rome, 33
+1176, Duncan, Spurs, 27
+1177, Linghu Chong, Swordsman, 28
+1178, Kidd, New Jersey Nets, 30
+1179, Bryant, Los Angeles Lakers, 24
+1180, Luo Baggio, Brescia, 36
+1181, Batty, Rome, 33
+1182, Duncan, Spurs, 27
+1183, Linghu Chong, Swordsman, 28
+1184, Kidd, New Jersey Nets, 30
+1185, Bryant, Los Angeles Lakers, 24
+1186, Ro Baggio, Brescia, 36
+1187, Batty, Rome, 33
+1188, Duncan, Spurs, 27
+1189, Linghu Chong, Swordsman, 28
+1190, Kidd, New Jersey Nets, 30
+1191, Bryant, Los Angeles Lakers, 24
+1192, Ro Baggio, Brescia, 36
+1193, Batty, Rome, 33
+1194, Duncan, Spurs, 27
+1195, Linghu Chong, Swordsman, 28
+1196, Kidd, New Jersey Nets, 30
+1197, Bryant, Los Angeles Lakers, 24
+1198, Luo Baggio, Brescia, 36
+1199, Batty, Rome, 33
+1200, Duncan, Spurs, 27
+1201, Linghu Chong, Swordsman, 28
+1202, Kidd, New Jersey Nets, 30
+1203, Bryant, Los Angeles Lakers, 25
+1204, Luo Baggio, Brescia, 36
+1205, Batty, Rome, 33
+1206, Duncan, Spurs, 27
+1207, Linghu Chong, Swordsman, 28
+1208, Kidd, New Jersey Nets, 30
+1209, Bryant, Los Angeles Lakers, 24
+1210, Luo Baggio, Brescia, 36
+1211, Batty, Rome, 33
+1212, Duncan, Spurs, 27
+1213, Linghu Chong, Swordsman, 28
+1214, Kidd, New Jersey Nets, 30
+1215, Bryant, Los Angeles Lakers, 24
+1216, Luo Baggio, Brescia, 36
+1217, Batty, Rome, 33
+1218, Duncan, Spurs, 27
+1219, Linghu Chong, Swordsman, 28
+1220, Kidd, New Jersey Nets, 30
+1221, Bryant, Los Angeles Lakers, 24
+1222, Luo Baggio, Brescia, 36
+1223, Batty, Rome, 33
+1224, Duncan, Spurs, 27
+1225, Linghu Chong, Swordsman, 28
+1226, Kidd, New Jersey Nets, 30
+1227, Bryant, Los Angeles Lakers, 24
+1228, Luo Baggio, Brescia, 36
+1229, Batty, Rome, 33
+1230, Duncan, Spurs, 27
+1231, Linghu Chong, Swordsman, 28
+1232, Kidd, New Jersey Nets, 30
+1233, Bryant, Los Angeles Lakers, 25
+1234, Luo Baggio, Brescia, 36
+1235, Batty, Rome, 33
+1236, Duncan, Spurs, 27
+1237, Linghu Chong, Swordsman, 28
+1238, Kidd, New Jersey Nets, 30
+1239, Bryant, Los Angeles Lakers, 24
+1240, Luo Baggio, Brescia, 36
+1241, Batty, Rome, 33
+1242, Duncan, Spurs, 27
+1243, Linghu Chong, Swordsman, 28
+1244, Kidd, New Jersey Nets, 30
+1245, Bryant, Los Angeles Lakers, 24
+1246, Luo Baggio, Brescia, 36
+1247, Batty, Rome, 33
+1248, Duncan, Spurs, 27
+1249, Linghu Chong, Swordsman, 28
+1250, Kidd, New Jersey Nets, 30
+1251, Bryant, Los Angeles Lakers, 24
+1252, Luo Baggio, Brescia, 36
+1253, Batty, Rome, 33
+1254, Duncan, Spurs, 27
+1255, Linghu Chong, Swordsman, 28
+1256, Kidd, New Jersey Nets, 30
+1257, Bryant, Los Angeles Lakers, 24
+1258, Ro Baggio, Brescia, 36
+1259, Batty, Rome, 33
+1260, Duncan, Spurs, 27
+1261, Linghu Chong, Swordsman, 28
+1262, Kidd, New Jersey Nets, 30
+1263, Bryant, Los Angeles Lakers, 25
+1264, Ro Baggio, Brescia, 36
+1265, Batty, Rome, 33
+1266, Duncan, Spurs, 27
+1267, Linghu Chong, Swordsman, 28
+1268, Kidd, New Jersey Nets, 30
+1269, Bryant, Los Angeles Lakers, 24
+1270, Ro Baggio, Brescia, 36
+1271, Batty, Rome, 33
+1272, Duncan, Spurs, 27
+1273, Linghu Chong, Swordsman, 28
+1274, Kidd, New Jersey Nets, 30
+1275, Bryant, Los Angeles Lakers, 24
+1276, Luo Baggio, Brescia, 36
+1277, Batty, Rome, 33
+1278, Duncan, Spurs, 27
+1279, Linghu Chong, Swordsman, 28
+1280, Kidd, New Jersey Nets, 30
+1281, Bryant, Los Angeles Lakers, 24
+1282, Luo Baggio, Brescia, 36
+1283, Batty, Rome, 33
+1284, Duncan, Spurs, 27
+1285, Linghu Chong, Swordsman, 28
+1286, Kidd, New Jersey Nets, 30
+1287, Bryant, Los Angeles Lakers, 24
+1288, Ro Baggio, Brescia, 36
+1289, Batty, Rome, 33
+1290, Duncan, Spurs, 27
+1291, Linghu Chong, Swordsman, 28
+1292, Kidd, New Jersey Nets, 30
+1293, Bryant, Los Angeles Lakers, 25
+1294, Luo Baggio, Brescia, 36
+1295, Batty, Rome, 33
+1296, Duncan, Spurs, 27
+1297, Linghu Chong, Swordsman, 28
+1298, Kidd, New Jersey Nets, 30
+1299, Bryant, Los Angeles Lakers, 24
+1300, Luo Baggio, Brescia, 36
+1301, Batty, Rome, 33
+1302, Duncan, Spurs, 27
+1303, Kidd, New Jersey Nets, 30
+1304, Bryant, Los Angeles Lakers, 24
+1305, Luo Baggio, Brescia, 36
+1306, Batty, Rome, 33
+1307, Duncan, Spurs, 27
+1308, Linghu Chong, Swordsman, 28
+1309, Kidd, New Jersey Nets, 30
+1310, Bryant, Los Angeles Lakers, 24
+1311, Luo Baggio, Brescia, 36
+1312, Batty, Rome, 33
+1313, Duncan, Spurs, 27
+1314, Linghu Chong, Swordsman, 28
+1315, Kidd, New Jersey Nets, 30
+1316, Bryant, Los Angeles Lakers, 24
+1317, Luo Baggio, Brescia, 36
+1318, Batty, Rome, 33
+1319, Duncan, Spurs, 27
+1320, Linghu Chong, Swordsman, 28
+1321, Kidd, New Jersey Nets, 30
+1322, Bryant, Los Angeles Lakers, 24
+1323, Luo Baggio, Brescia, 36
+1324, Batty, Rome, 33
+1325, Duncan, Spurs, 27
+1326, Linghu Chong, Swordsman, 28
+1327, Kidd, New Jersey Nets, 30
+1328, Bryant, Los Angeles Lakers, 24
+1329, Luo Baggio, Brescia, 36
+1330, Batty, Rome, 33
+1331, Duncan, Spurs, 27
+1332, Linghu Chong, Swordsman, 28
+1333, Kidd, New Jersey Nets, 30
+1334, Bryant, Los Angeles Lakers, 24
+1335, Luo Baggio, Brescia, 36
+1336, Batty, Rome, 33
+1337, Duncan, Spurs, 27
+1338, Linghu Chong, Swordsman, 28
+1339, Kidd, New Jersey Nets, 30
+1340, Bryant, Los Angeles Lakers, 24
+1341, Luo Baggio, Brescia, 36
+1342, Batty, Rome, 33
+1343, Duncan, Spurs, 27
+1344, Linghu Chong, Swordsman, 28
+1345, Kidd, New Jersey Nets, 30
+1346, Bryant, Los Angeles Lakers, 24
+1347, Luo Baggio, Brescia, 36
+1348, Batty, Rome, 33
+1349, Duncan, Spurs, 27
+1350, Linghu Chong, Swordsman, 28
+1351, Kidd, New Jersey Nets, 30
+1352, Bryant, Los Angeles Lakers, 24
+1353, Luo Baggio, Brescia, 36
+1354, Batty, Rome, 33
+1355, Duncan, Spurs, 27
+1356, Linghu Chong, Swordsman, 28
+1357, Kidd, New Jersey Nets, 30
+1358, Bryant, Los Angeles Lakers, 24
+1359, Ro Baggio, Brescia, 36
+1360, Batty, Rome, 33
+1361, Duncan, Spurs, 27
+1362, Linghu Chong, Swordsman, 28
+1363, Kidd, New Jersey Nets, 30
+1364, Bryant, Los Angeles Lakers, 24
+1365, Luo Baggio, Brescia, 36
+1366, Batty, Rome, 33
+1367, Duncan, Spurs, 27
+1368, Linghu Chong, Swordsman, 28
+1369, Kidd, New Jersey Nets, 30
+1370, Bryant, Los Angeles Lakers, 24
+1371, Ro Baggio, Brescia, 36
+1372, Batty, Rome, 33
+1373, Duncan, Spurs, 27
+1374, Linghu Chong, Swordsman, 28
+1375, Kidd, New Jersey Nets, 30
+1376, Bryant, Los Angeles Lakers, 24
+1377, Ro Baggio, Brescia, 36
+1378, Batty, Rome, 33
+1379, Duncan, Spurs, 27
+1380, Linghu Chong, Swordsman, 28
+1381, Kidd, New Jersey Nets, 30
+1382, Bryant, Los Angeles Lakers, 24
+1383, Ro Baggio, Brescia, 36
+1384, Batty, Rome, 33
+1385, Duncan, Spurs, 27
+1386, Linghu Chong, Swordsman, 28
+1387, Kidd, New Jersey Nets, 30
+1388, Bryant, Los Angeles Lakers, 24
+1389, Luo Baggio, Brescia, 36
+1390, Batty, Rome, 33
+1391, Duncan, Spurs, 27
+1392, Linghu Chong, Swordsman, 28
+1393, Kidd, New Jersey Nets, 30
+1394, Bryant, Los Angeles Lakers, 24
+1395, Luo Baggio, Brescia, 36
+1396, Batty, Rome, 33
+1397, Duncan, Spurs, 27
+1398, Linghu Chong, Swordsman, 28
+1399, Kidd, New Jersey Nets, 30
+1400, Bryant, Los Angeles Lakers, 24
+1401, Luo Baggio, Brescia, 36
+1402, Batty, Rome, 33
+1403, Duncan, Spurs, 27
+1404, Linghu Chong, Swordsman, 28
+1405, Kidd, New Jersey Nets, 30
+1406, Bryant, Los Angeles Lakers, 24
+1407, Ro Baggio, Brescia, 36
+1408, Batty, Rome, 33
+1409, Duncan, Spurs, 27
+1410, Linghu Chong, Swordsman, 28
+1411, Kidd, New Jersey Nets, 30
+1412, Bryant, Los Angeles Lakers, 24
+1413, Luo Baggio, Brescia, 36
+1414, Batty, Rome, 33
+1415, Duncan, Spurs, 27
+1416, Linghu Chong, Swordsman, 28
+1417, Kidd, New Jersey Nets, 30
+1418, Bryant, Los Angeles Lakers, 24
+1419, Luo Baggio, Brescia, 36
+1420, Batty, Rome, 33
+1421, Duncan, Spurs, 27
+1422, Linghu Chong, Swordsman, 28
+1423, Kidd, New Jersey Nets, 30
+1424, Bryant, Los Angeles Lakers, 24
+1425, Linghu Chong, Swordsman, 28
+1426, Kidd, New Jersey Nets, 30
+1427, Bryant, Los Angeles Lakers, 24
+1428, Luo Baggio, Brescia, 36
+1429, Batty, Rome, 33
+1430, Duncan, Spurs, 27
+1431, Linghu Chong, Swordsman, 28
+1432, Kidd, New Jersey Nets, 30
+1433, Bryant, Los Angeles Lakers, 25
+1434, Ro Baggio, Brescia, 36
+1435, Batty, Rome, 33
+1436, Duncan, Spurs, 27
+1437, Linghu Chong, Swordsman, 28
+1438, Kidd, New Jersey Nets, 30
+1439, Bryant, Los Angeles Lakers, 24
+1440, Luo Baggio, Brescia, 36
+1441, Batty, Rome, 33
+1442, Duncan, Spurs, 27
+1443, Linghu Chong, Swordsman, 28
+1444, Kidd, New Jersey Nets, 30
+1445, Bryant, Los Angeles Lakers, 24
+1446, Ro Baggio, Brescia, 36
+1447, Batty, Rome, 33
+1448, Duncan, Spurs, 27
+1449, Linghu Chong, Swordsman, 28
+1450, Kidd, New Jersey Nets, 30
+1451, Bryant, Los Angeles Lakers, 24
+1452, Luo Baggio, Brescia, 36
+1453, Batty, Rome, 33
+1454, Duncan, Spurs, 27

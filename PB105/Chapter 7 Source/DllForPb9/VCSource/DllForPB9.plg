@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DllForPB9 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/DllForPB9.res" /d "_DEBUG" /d "_AFXDLL" "C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\MyProjects\DllForPB9\DllForPB9.rc"" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP3265.TMP" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fp"Debug/DllForPB9.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\MyProjects\DllForPB9\DllForPB9.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP3265.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP3266.TMP" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fp"Debug/DllForPB9.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\MyProjects\DllForPB9\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP3266.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP3267.TMP" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"Debug/DllForPB9.pdb" /debug /machine:I386 /def:".\DllForPB9.def" /out:"Debug/DllForPB9.dll" /implib:"Debug/DllForPB9.lib" /pdbtype:sept 
+".\Debug\DllForPB9.obj"
+".\Debug\StdAfx.obj"
+".\Debug\DllForPB9.res"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP3267.TMP"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+DllForPB9.cpp
+Linking...
+   Creating library Debug/DllForPB9.lib and object Debug/DllForPB9.exp
+
+
+
+<h3>Results</h3>
+DllForPB9.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

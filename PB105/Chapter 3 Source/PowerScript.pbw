@@ -1,0 +1,17 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "importfile\\importfile.pbt";
+ 1 "RunControl\\run_control.pbt";
+ 2 "GetLastDay\\getlastday.pbt";
+ 3 "Regedit\\regedit.pbt";
+ 4 "OnlyOnce\\onlyonce.pbt";
+ 5 "CloseApp\\closeapp.pbt";
+ 6 "AmountUppder\\amount_upper.pbt";
+ 7 "NumberConvert\\numberconvert.pbt";
+ 8 "CSUPgrade\\csupgrade.pbt";
+ 9 "CommandParm\\myapp.pbt";
+@end;
+DefaultTarget "CommandParm\\myapp.pbt";
+DefaultRemoteTarget "CommandParm\\myapp.pbt";

@@ -1,0 +1,12 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "Media\\media.pbt";
+ 1 "DDE\\ddeclient.pbt";
+ 2 "DBOLE\\dbole_ext.pbt";
+ 3 "pbtowordandexcel\\pbtoword.pbt";
+ 4 "pb9com\\myfirst.pbt";
+@end;
+DefaultTarget "pb9com\\myfirst.pbt";
+DefaultRemoteTarget "pb9com\\myfirst.pbt";

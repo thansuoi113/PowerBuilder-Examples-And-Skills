@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "jaguarcts.pbt";
+ 1 "jaguar.pbt";
+@end;
+DefaultTarget "jaguarcts.pbt";
+DefaultRemoteTarget "jaguarcts.pbt";

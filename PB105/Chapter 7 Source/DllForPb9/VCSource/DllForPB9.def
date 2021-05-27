@@ -1,0 +1,10 @@
+; DllForPB9.def : Declares the module parameters for the DLL.
+
+LIBRARY      "DllForPB9"
+DESCRIPTION  'DllForPB9 Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+
+	Right_Move @1,@2
+	Left_Move @3,@4

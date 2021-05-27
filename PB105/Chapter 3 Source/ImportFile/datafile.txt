@@ -1,0 +1,6 @@
+1|Linghuchong|Swordsman|26
+3|Iverson|Philadelphia|28
+6|Bryant|Los Angeles Lakers|25
+10|Ro Baggio|Brescia|36
+18|Batti|Rome|33
+21|Duncan|Spurs|27

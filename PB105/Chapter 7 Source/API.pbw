@@ -1,0 +1,19 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "ChangeWindow\\ChangeWindow.pbt";
+ 10 "SetScreen\\setscreen.pbt";
+ 1 "CloseStyle\\CloseStyle.pbt";
+ 11 "CPUInfo\\cpu.pbt";
+ 2 "ExitWindow\\ExitWindow.pbt";
+ 3 "MPING\\mping.pbt";
+ 4 "MPING\\ping.pbt";
+ 5 "System Thread\\SystemThread.pbt";
+ 6 "SystemInformation\\getsysteminfo.pbt";
+ 7 "TransWindow\\TransWindow.pbt";
+ 8 "PictureBox\\PictureBox.pbt";
+ 9 "DllForPb9\\dllforpb9c.pbt";
+@end;
+DefaultTarget "CPUInfo\\cpu.pbt";
+DefaultRemoteTarget "CPUInfo\\cpu.pbt";

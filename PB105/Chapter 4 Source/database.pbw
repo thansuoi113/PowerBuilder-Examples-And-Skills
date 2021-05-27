@@ -1,0 +1,14 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "Blob\\wrblob.pbt";
+ 1 "Client-Server\\client_server.pbt";
+ 2 "DynamicSQL\\dynamic_sql.pbt";
+ 3 "GetServerTime\\get_server_time.pbt";
+ 4 "SystemTable\\systemtable.pbt";
+ 5 "ODBCList\\Listodbc.pbt";
+ 6 "ServerSet\\serverset.pbt";
+@end;
+DefaultTarget "ServerSet\\serverset.pbt";
+DefaultRemoteTarget "ServerSet\\serverset.pbt";

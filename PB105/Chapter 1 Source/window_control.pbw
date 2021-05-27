@@ -1,0 +1,23 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "DynamicControl\\dynamic_control.pbt";
+ 10 "Outlook\\outlook.pbt";
+ 1 "MDIBmp\\mdibmp.pbt";
+ 11 "StatusBar\\status_bar.pbt";
+ 2 "FlowChat\\flow_chart.pbt";
+ 12 "PictureButton\\picture_button.pbt";
+ 3 "systray\\systray.pbt";
+ 13 "Wallpaper\\wallpaper.pbt";
+ 4 "Splash\\splash.pbt";
+ 14 "TransParentButton\\transparent_button.pbt";
+ 5 "bmpmenu\\bmpmenu.pbt";
+ 15 "IconButton\\icon_button.pbt";
+ 6 "ToolTips\\tooltips.pbt";
+ 7 "SplitBar\\splitbar.pbt";
+ 8 "autosize\\autosize.pbt";
+ 9 "TransparentST\\transparent_st.pbt";
+@end;
+DefaultTarget "IconButton\\icon_button.pbt";
+DefaultRemoteTarget "IconButton\\icon_button.pbt";

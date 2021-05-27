@@ -1,0 +1,44 @@
+$PBExportHeader$f_cncharnum.srf
+$PBExportComments$得到字符串中汉字或者双字节的个数
+global type f_cncharnum from function_object
+end type
+
+forward prototypes
+global function integer f_cncharnum (string aString)
+end prototypes
+
+global function integer f_cncharnum (string aString);//作者: 张涛
+//邮件: ztao@engineer.com
+//主页: 摆渡人工作室(http://pbsite.yeah.net/)
+//函数名: f_cncharnum
+//用途: 返回一个字符串中汉字的个数
+//输入: aString - string, 给定的字符串
+//返回值: li_num - Integer, 给定的字符串中汉字的个数
+//注意: 1. 此方法基于汉字的国标汉字库区位编码的有效性，不符合此编码的系统此函数无效！
+// 2. 若汉字串含有非汉字字符,如图形符号或ASCII码,则这些非汉字字符将保持不变.
+//例如: li_ret = f_cncharnum("摆渡人ferryman") li_ret = 3
+
+string ls_ch //临时单元
+string ls_SecondSecTable //存放所有国标二级汉字读音
+integer li_num = 0 //返回值
+integer i,j
+
+For i = 1 to Len(aString)
+ls_ch = Mid(aString,i,1)
+If Asc(ls_ch) >= 128 then //是汉字
+li_num++
+i = i+1
+End if
+Next
+
+Return li_num
+
+end function
+
+
+
+//用途: 返回一个字符串中汉字的个数
+//输入: aString - string, 给定的字符串
+//返回值: li_num - Integer, 给定的字符串中汉字的个数
+//注意: 1. 此方法基于汉字的国标汉字库区位编码的有效性，不符合此编码的系统此函数无效！
+// 2. 若汉字串含有非汉字字符,如图形符号或ASCII码,则这些非汉字字符将保持不变.
